@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  image-rendering: pixelated;
+  width: 800px;
+  height: 400px;
+}
